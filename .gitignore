@@ -1,3 +1,4 @@
 .DS_Store
 basic_pytorch/data/fashion-mnist_train.csv
 basic_pytorch/data/fashion-mnist_test.csv
+/Users/pritomsh/ComputerVision/learn_pytorch_zero_to_research/PyTorch Bootcamp by OpenCV/F_MNIST_data/FashionMNIST/raw
